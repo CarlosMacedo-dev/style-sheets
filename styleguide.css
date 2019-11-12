@@ -1,0 +1,264 @@
+/* --------------------------------------------- */
+/* --------- Branding: Color Palette ----------- */
+/* --------------------------------------------- */
+/* These are the colors of the boxes under the Branding section */
+#swatch1{
+	background-color: #000000;
+}	
+#swatch2{
+	background-color: #ffffff;
+	border-width: 1px;
+	border-style: solid;
+}	
+#swatch3{
+	background-color: #aaaaaa;
+}	
+#swatch4{
+	background-color: #010333;
+}		
+
+/* ----------------------------------------------------- */
+/* --------- Typography: Heading & Body Copy ----------- */
+/* ----------------------------------------------------- */
+/* These are the font families of all the headings and body copy */
+
+body{
+	font-family: ;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: ;
+}
+
+
+/* -------------------------------------------------- */
+/* --------- Navigation: Main & Secondary ----------- */
+/* -------------------------------------------------- */
+/* Colors, style, floating, shapes, etc of main & secondary navs */
+
+/* Main Navigation Style */
+#mainnav{
+	
+}
+#mainnav ul{
+
+}
+#mainnav li{
+
+}
+#mainnav a:link{
+	color: #;
+	/* other styles */
+}
+#mainnav a:visited{
+	color: #;
+	/* other styles */
+}
+#mainnav a:hover{
+	color: #;
+	/* other styles */
+}
+#mainnav a:active{
+	color: #;
+	/* other styles */
+}
+
+
+/* Secondary Navigation Style */
+#secondnav{
+
+}
+#secondnav ul{
+
+}
+#secondnav li{
+
+}
+#secondnav a:link{
+	color: #;
+	/* other styles */
+}
+#secondnav a:visited{
+	color: #;
+	/* other styles */
+}
+#maisecondnavnnav a:hover{
+	color: #;
+	/* other styles */
+}
+#secondnav a:active{
+	color: #;
+	/* other styles */
+}
+
+
+
+
+/* ----------------------------------- */
+/* --------- HTML Elements ----------- */
+/* ----------------------------------- */
+/* Styling for all HTML Elements */
+
+/* True for all headings */
+h1, h2, h3 ,h4, h5, h6{
+	color: #;
+}
+
+
+/* Style for individual headings */
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+h4{
+
+}
+
+h5{
+
+}
+
+h6{
+
+}
+
+
+/* List Styles */
+ul{
+
+}
+ul li{
+
+}
+
+ol{
+
+}
+ol li{
+
+}
+
+
+/* Non-Navigational Link Styles */
+/* This is for all default links on your page */
+a:link{
+
+}
+a:visited{
+
+}
+a:hover{
+
+}
+a:active{
+
+}
+
+/* This is for secondary link styles (possibly in your footer, etc) */
+.linkstyle2 a:link{
+
+}
+.linkstyle2 a:visited{
+
+}
+.linkstyle2 a:hover{
+
+}
+.linkstyle2 a:active{
+
+}
+
+
+/* Paragraph Styles */
+p{
+	color:;
+	/* Other paragraph styles */
+}
+
+
+/* Figure and Figcaption Styles */
+figure{
+
+}
+figure img{
+
+}
+figcaption{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------------------------- */
+/* --------- Style Guide CSS ----------- */
+/* ------------------------------------- */
+/* The following CSS is used for the styling of the structure of the Style Guide itself */
+body{
+	width: 700px;
+	margin: 10px auto;
+	border: 1px solid #777;
+	padding: 20px;
+}
+
+.styleguide{
+	font-family: "Courier New", Courier, monospace;
+}
+h1.styleguide, h2.styleguide, h3.styleguide, h4.styleguide, h5.styleguide, h6.styleguide{
+	color: #777;
+	font-family: "Courier New", Courier, monospace;
+}
+h2.styleguide{
+    background-color: #777;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: -15px;
+    color: white;
+}
+p.styleguide{
+	color: #777;
+	font-family: "Courier New", Courier, monospace;
+}
+
+section{
+    margin-top: -10px;
+    margin-bottom: 70px; 
+}
+.colorgroup{
+    float: left;
+    width: 170px;
+}
+.colorgroup h4{
+	font-size: .9em;
+}
+.colorgroup p{
+    font-size: .8em;
+}
+.clear{
+    clear: both;
+}
+.swatches{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.swatch2{
+	border-style: 1px solid #000000;
+}
